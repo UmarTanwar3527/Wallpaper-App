@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071038609774",
+    "project_id": "wallpaper-application-9dbce",
+    "storage_bucket": "wallpaper-application-9dbce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071038609774:android:6d1e0b4808c9c6a5c8297f",
+        "android_client_info": {
+          "package_name": "com.umar.wallpape"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Bjd-Mu0-nC7ukRZN6ho_L4tvKsfYXXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

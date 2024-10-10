@@ -1,0 +1,30 @@
+{
+    "hosting": {
+        "public": "/home/user/myapp/build/app",
+        "ignore": [
+            "firebase.json",
+            "**/.*",
+            "**/node_modules/**"
+        ]
+    },
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "wallpaper-application-9dbce",
+                    "appId": "1:1071038609774:android:6d1e0b4808c9c6a5c8297f",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "wallpaper-application-9dbce",
+                    "configurations": {
+                        "android": "1:1071038609774:android:6d1e0b4808c9c6a5c8297f",
+                        "web": "1:1071038609774:web:2a7fb4126c2c1408c8297f"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+name: myapp
+description: "A new Flutter project."
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+  
+dependencies:
+  flutter:
+    sdk: flutter
+  http:
+  cached_network_image:
+  flutter_staggered_grid_view:
+  external_path:
+  media_scanner:
+  flutter_wallpaper_manager: ^0.0.4
+  flutter_cache_manager:
+  cupertino_icons: ^1.0.6
+  firebase_core: ^3.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
